@@ -1,4 +1,4 @@
-# stickable
+# stickhidable
 
 Simple jQuery plugin to stick a div at the top of the viewport, hidding while scrolling down, showing while scrolling down.
 
