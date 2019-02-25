@@ -7,7 +7,7 @@ Simple jQuery plugin to stick a div at the top of the viewport, hidding while sc
 Insert the js file after jQuery:
 
 ```html
-<script type="text/javascript" src="/path/to/stickhidable.js"></script>
+<script type="text/javascript" src="/path/to/stickhidable.min.js"></script>
 ```
 
 Just apply the plugin to the div to be sticked:
