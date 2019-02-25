@@ -21,6 +21,8 @@ Just apply the plugin to the div to be sticked:
 ```
 Very simple.
 
+[demo](https://xavier-bs.github.io/stickhidable.github.io/)
+
 ***
 
 GNU GENERAL PUBLIC LICENSE Version 3
