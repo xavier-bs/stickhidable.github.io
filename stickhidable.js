@@ -6,7 +6,7 @@
 ( function( $ ) {
    
    if( ! $( '#stickhidable-css' ).length ) {
-      $( 'head' ).append( '<style id="stickhidable-css">.stick {margin-top:0!important;position:fixed;top: 0;z-index:10000;}</style' );
+      $( 'head' ).append( '<style id="stickhidable-css">.stick {margin-top:0!important;position:fixed;top: 0;z-index:10000;transition:top 0.5s;}</style' );
    }
 
    $.fn.stickhidable = function() {
