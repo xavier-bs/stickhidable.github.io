@@ -15,7 +15,7 @@ Just apply the plugin to the div to be sticked:
 ```javacript
 ( function( $ ) {
 	
-	$( 'myDivToStick' ).stickable();
+	$( 'myDivToStick' ).stickhidable();
 
 })( jQuery );
 ```
